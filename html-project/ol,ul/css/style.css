@@ -1,0 +1,12 @@
+ul.a{
+    list-style: disc;
+}
+ul.b{
+    list-style: circle;
+}
+ul.c{
+    list-style: square;
+}
+ul.d{
+    list-style: none;
+}

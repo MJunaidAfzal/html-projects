@@ -1,0 +1,26 @@
+div{
+    margin-left: 650px;
+    height: auto;
+    width: 500px;
+    margin-top: 30px;
+    background-color: gold;
+    padding: 30px;
+    
+}
+body{
+    background-color: lightgreen;
+}
+fieldset{
+    background-color: skyblue;
+}
+label{
+    padding-right: 50px;
+}
+button{
+    width: 500px;
+    padding: 15px;
+    color: white;
+    border: none;
+    background-color: tomato;
+    margin: 8px 0px;
+}

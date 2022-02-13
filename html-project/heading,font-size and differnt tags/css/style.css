@@ -1,0 +1,23 @@
+h1{
+    background-color: blue;
+    color: chartreuse;
+}
+h2{
+    color: chocolate;
+}
+h3{
+    color: darkgoldenrod;
+}
+h4{
+    color: gold;
+}
+h5{
+    color: hotpink;
+}
+h6{
+    color: indigo;
+}
+p.a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}

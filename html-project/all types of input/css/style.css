@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color: gold;
+    margin: 550px;
+    padding: 25px;
+}
+input{
+    height: 25px;
+    width: 750px;
+}

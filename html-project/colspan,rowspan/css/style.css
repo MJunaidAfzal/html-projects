@@ -1,0 +1,12 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+body{
+    background-color: skyblue;
+    padding-left: 50%;
+    padding-right: 50%;
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
